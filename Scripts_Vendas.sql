@@ -1,0 +1,13 @@
+SELECT * FROM vendas_tratado;
+
+SELECT SUM(REVENUE)
+FROM vendas_tratado;
+
+SELECT MONTH, SUM(REVENUE)
+FROM vendas_tratado
+GROUP BY MONTH;
+
+SELECT PRODUCTLINE, SUM(REVENUE) AS faturamento
+FROM vendas_tratado
+GROUP BY PRODUCTLINE
+ORDER BY faturamento DESC;
