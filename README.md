@@ -42,4 +42,4 @@ Criação de um painel interativo conectado aos dados validados no SQL:
 
 ---
 **Autor:** Gabriel Molinari
-[LinkedIn](www.linkedin.com/in/gabriel-molinari-b85095352) | [GitHub](LINK_DO_SEU_GITHUB)
+[LinkedIn](www.linkedin.com/in/gabriel-molinari-b85095352) | [GitHub](https://github.com/GabrielMolinarib25)
