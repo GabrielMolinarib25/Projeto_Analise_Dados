@@ -31,7 +31,7 @@ Criação de um painel interativo conectado aos dados validados no SQL:
 * **Vendas de produto por País:** Porcentagem de cada produto vendido por País.
 
 ## 📊 Visualização do Dashboard
-![Dashboard de Vendas](./dashboard.png)
+![Dashboard de Vendas](./dashboard1.png)
 
 
 ## 📁 Estrutura do Repositório
